@@ -10,4 +10,4 @@ You can click the Preview link to take a look at your changes.
 ###
 - 🌱 I’m currently a computer science major at NEU Boston
 - 👯 I’m looking to collaborate with other researchers and creators
-- 🥅 2022 Goals: Contribute to Open Source projects
+- 🥅 2024 Goals: Contribute to Open Source projects
